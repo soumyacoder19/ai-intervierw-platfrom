@@ -1,0 +1,6 @@
+{
+  "name": "AI Interview Preparation SaaS Platform",
+  "description": "An enterprise-grade, full-stack AI interview preparation mentor that conducts real-time mock technical, behavioral, and architectural interviews with speech simulation, ATS resume parsing, granular grading rubrics, progress charts, and Stripe monetization dashboards.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
